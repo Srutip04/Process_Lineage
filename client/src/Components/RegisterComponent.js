@@ -90,7 +90,7 @@ class RegisterComp extends Component{
         this.func();
         return(
             <React.Fragment>
-                <div classname="container">
+                <div className="container">
 
                 <h1>{ele}</h1>
 

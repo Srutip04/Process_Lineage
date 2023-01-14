@@ -85,9 +85,7 @@ class Main extends Component {
     }
   };
 
-  async checks(address){
-   
-                 }
+  async checks(address){ }
   
   reghandler = (vt) => {
       this.setState({registered : vt });
